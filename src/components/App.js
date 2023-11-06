@@ -23,7 +23,7 @@ function App (){
   // For access token generation
 
   const clientId = 'db7c15e318dc428189eb0552f5060b9d'; 
-  const redirectUri = 'http://localhost:3000'; 
+  const redirectUri = 'https://jammming-by-joseph.netlify.app'; 
   const scopes = 'playlist-modify-public'; 
   
   const authEndpoint = 'https://accounts.spotify.com/authorize';
